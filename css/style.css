@@ -82,21 +82,21 @@ body{
 
 ::-webkit-scrollbar-thumb {
   cursor: pointer;
-  background: #E82E31;
+  background: #004AAD;
 }
 
 ::selection{
-  background-color:#E82E31;
+  background-color:#004AAD;
   color:#fff;
 }
 
 -webkit-::selection{
-    background-color:#E82E31;
+    background-color:#004AAD;
     color:#fff;
 }
 
 ::-moz-selection{
-    background-color:#E82E31;
+    background-color:#004AAD;
     color:#fff;
 }
 
@@ -238,7 +238,7 @@ ul{
 }
 
 a {
-  color:#E82E31;
+  color:#004AAD;
   -webkit-transition: color .3s ease-out;
        -o-transition: color .3s ease-out;
           transition: color .3s ease-out;
@@ -246,7 +246,7 @@ a {
 
 a:hover,
 a:focus {
-  color:#E82E31;
+  color:#004AAD;
   outline: none;
 }
 
@@ -294,7 +294,7 @@ textarea.form-control{
 }
 
 .form-control:focus{
-  border-color:#E82E31;
+  border-color:#004AAD;
   outline: 0;
   -webkit-box-shadow:none;
           box-shadow:none;
@@ -314,7 +314,7 @@ textarea.form-control{
 }
 
 label.error{
-  border-color:#E82E31;
+  border-color:#004AAD;
   padding:9px 0 0 0;
   font-size:0.9rem;
 }
@@ -328,7 +328,7 @@ label.error{
 .message{
   margin-bottom: 30px;
   display: none;
-  color:#E82E31;
+  color:#004AAD;
 }
 
 
@@ -341,7 +341,7 @@ label.error{
   font-family: 'swanseabold';
   position: relative;
   display: inline-block;
-  border:0.2em solid #E82E31;
+  border:0.2em solid #004AAD;
   border-radius: 0;
   height: 3.22rem;
   padding:1.1em 2.4em 1.15em!important;
@@ -352,7 +352,7 @@ label.error{
   text-align: center;
   text-transform: uppercase;
   text-decoration: none;
-  background-color:#E82E31;
+  background-color:#004AAD;
   border-width: 1px;
   -webkit-transition: all .3s ease-out!important;
           transition: all .3s ease-out!important;
@@ -375,8 +375,8 @@ label.error{
 }
 
 .btn-dark:hover{
-  background-color:#E82E31;
-  border-color: #E82E31;
+  background-color:#004AAD;
+  border-color: #004AAD;
 }
 
 button{
@@ -412,7 +412,7 @@ button{
 
 
 ion-icon{
-  color:#E82E31;
+  color:#004AAD;
   font-size: 3.8rem;
   --ionicon-stroke-width: 17px;
 }
@@ -422,7 +422,7 @@ ion-icon{
   display: inline-block;
   width: 1.6rem;
   height: 1.6rem;
-  background: #E82E31;
+  background: #004AAD;
   text-align: center;
   vertical-align: middle;
   transition:all .3s ease;
@@ -456,7 +456,7 @@ ion-icon{
   line-height: 4.5rem;
   font-size: 2.225rem;
   color: #fff;
-  background: #E82E31;
+  background: #004AAD;
   border-radius: 50%;
 }
 
@@ -523,7 +523,7 @@ ion-icon{
   width: 100%;
   height: 100%;
   border-radius: 50%;
-  background-color: #E82E31;
+  background-color: #004AAD;
   opacity: 0.6;
   position: absolute;
   top: 0;
@@ -563,7 +563,7 @@ ion-icon{
 }
 
 a.text-dark:hover{
-  color: #E82E31!important;
+  color: #004AAD!important;
   text-decoration: none;
 }
 
@@ -581,7 +581,7 @@ a.text-body:hover{
 }
 
 .text-primary{
-  color:#E82E31!important;
+  color:#004AAD!important;
 }
 
 .text-opacity-white{
@@ -698,7 +698,7 @@ a.text-body:hover{
 }
 
 .social-icons ion-icon:hover{
-  color: #E82E31;
+  color: #004AAD;
 }
 
 
@@ -752,7 +752,7 @@ a.text-body:hover{
 
 .navbar-nav-desctop > li > .active,
 .navbar-nav-desctop > li > a:hover{
-  color:#E82E31;
+  color:#004AAD;
 }
 
 .navbar-nav-desctop li ul{
@@ -786,7 +786,7 @@ a.text-body:hover{
 
 .navbar-nav-desctop li ul .active a,
 .navbar-nav-desctop li ul li:hover a{
-  color:#E82E31;
+  color:#004AAD;
 }
 
 
@@ -854,7 +854,7 @@ a.text-body:hover{
 }
 .language .active a,
 .language a:hover{
-  color: #E82E31;
+  color: #004AAD;
   text-decoration: none;
 }
 
@@ -871,7 +871,7 @@ a.text-body:hover{
 
 .navbar-mobile .close:hover{
   opacity: 1;
-  color: #E82E31;
+  color: #004AAD;
 }
 
 @media (min-width: 576px){
@@ -902,7 +902,7 @@ a.text-body:hover{
 
 .navbar-nav-mobile .active > a,
 .navbar-nav-mobile  li a:hover{
-  color:#E82E31;
+  color:#004AAD;
   text-decoration: none;
 }
 
@@ -983,7 +983,7 @@ a.text-body:hover{
 .navbar-white:not(.fixed) .navbar-nav-desctop > .active > a, 
 .navbar-white:not(.fixed) .navbar-nav-desctop > li:hover > a,
 .navbar-white:not(.fixed) .social-icons ion-icon:hover{
-  color: #E82E31;
+  color: #004AAD;
 }
 
 .navbar-white:not(.fixed) .toggler-icon{
@@ -1250,7 +1250,7 @@ main{
 }
 
 .progress-bar-line{
-  background:#E82E31;
+  background:#004AAD;
   content:'';
   width:100%;
   height: 100%;
@@ -1301,7 +1301,7 @@ main{
 
 .testimonials-carousel  .owl-prev:hover,
 .testimonials-carousel  .owl-next:hover{
-  background: #E82E31!important;
+  background: #004AAD!important;
 }
 
 .experience-number{
@@ -1341,7 +1341,7 @@ main{
 }
 
 .owl-dot.active span{
-  background-color: #E82E31;
+  background-color: #004AAD;
 }
 
 .owl-prev:focus,
@@ -1369,8 +1369,8 @@ main{
 
 .owl-prev:hover,
 .owl-next:hover{
-  background: #E82E31!important;
-  border-color: #E82E31!important;
+  background: #004AAD!important;
+  border-color: #004AAD!important;
 }
 
 
@@ -1818,6 +1818,6 @@ footer{
 }
 .menu .active a,
 .menu li:hover a{
-  color:#E82E31;
+  color:#004AAD;
   text-decoration: none;
 }
